@@ -5,6 +5,11 @@
 
 <img width="500" alt="Screenshot 2022-06-21 at 10 46 22 AM" src="https://user-images.githubusercontent.com/74058421/174721742-99820b51-7d00-445b-819f-2f49fe43c0fa.png">
 
+<img width="467" alt="Screenshot 2022-06-21 at 11 11 10 AM" src="https://user-images.githubusercontent.com/74058421/174724774-8b37350e-2611-4160-b677-f01dff308393.png">
+
+<img width="900" alt="Screenshot 2022-06-21 at 11 12 53 AM" src="https://user-images.githubusercontent.com/74058421/174724785-f668172c-0bf3-4f9f-ac50-820c584b62e9.png">
+
+
 ## Our Goal
 
 At the moment, our app only looks good on the canvas dimension that we’ve selected. If you run the app on screens with different aspect ratios or try to turn it to landscape, the designs will look broken. 
