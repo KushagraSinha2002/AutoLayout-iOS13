@@ -1,6 +1,9 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Auto Layout 
+<img width="895" alt="Screenshot 2022-06-21 at 10 46 48 AM" src="https://user-images.githubusercontent.com/74058421/174721718-456cea7f-3fcb-4640-b31a-ce5a5d33f817.png">
+
+<img width="500" alt="Screenshot 2022-06-21 at 10 46 22 AM" src="https://user-images.githubusercontent.com/74058421/174721742-99820b51-7d00-445b-819f-2f49fe43c0fa.png">
 
 ## Our Goal
 
